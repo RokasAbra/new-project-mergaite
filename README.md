@@ -23,4 +23,4 @@ Design: [YOGA](https://cdn.discordapp.com/attachments/850245533838868480/9160192
 
 ## Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Rokas: [Github](https://github.com/RokasAbra)
