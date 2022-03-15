@@ -10,14 +10,16 @@ _35 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/35-grupe-nd-kvadratai/
+Site published at: https://github.com/RokasAbra/new-project-mergaite
 
-Design: [ND kvadaratai](https://cdn.discordapp.com/attachments/950296439051911178/951432465568899082/unknown.png)
+Design: [YOGA](https://cdn.discordapp.com/attachments/850245533838868480/916019208788258886/yoga-lifestyle.png)
 
 ## Project features
 
 - Github pages
-- CSS: float, width
+- fixed width container
+- header: logo + nav
+- png images
 
 ## Authors
 
